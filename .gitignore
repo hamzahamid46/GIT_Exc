@@ -1,4 +1,4 @@
-# Ignore all files ending with specific extensions
-*.txt
-*.log
-*.tmp
+# Ignore files ending with .in, .out, and .pyc
+*.in
+*.out
+*.pyc
