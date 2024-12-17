@@ -1,0 +1,4 @@
+# Ignore all files ending with specific extensions
+*.txt
+*.log
+*.tmp
